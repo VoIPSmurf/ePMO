@@ -6,4 +6,7 @@ db.sqlite3
 /static
 .DS_Store
 /eForms
+/bin
+/include
+/lib
 
